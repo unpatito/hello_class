@@ -13,9 +13,13 @@ def jesus():
 def jesus2():
     print("Jesus os vuelve a saludar desde DAW")
 
+def oscar():
+    print("Hola soy Óscar, pa las reggetonas ")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
     samuel()
     jose()
     jesus()
+    oscar()
