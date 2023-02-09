@@ -19,6 +19,9 @@ def oscar():
 def adrian():
     print("Hola soy Adrian, estoy escribiendo en python, que ilusion, odio base de datos")
 
+def lucas():
+    print("Hola soy Lucas, vuestro compañero de DAW.")
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
@@ -27,4 +30,6 @@ if __name__ == "__main__":
     jesus()
     oscar()
     adrian()
+    lucas()
+
     
