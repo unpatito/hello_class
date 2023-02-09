@@ -7,9 +7,14 @@ def samuel():
 def jose():
     print("Hola, soy Jose, barón de Turís, vuestro super compañero de DAW")
 
+def jesus():
+    print("Hola soy Jesus, compañero de DAW")
+
+
 if __name__ == "__main__":
     print("Say hello to class ")
     antonio()
     samuel()
     jose()
-    
+    jesus()
+
